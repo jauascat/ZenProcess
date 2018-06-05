@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.HBox?>
+
+
+<HBox fx:id="hboxMenu" alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="100.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button fx:id="btnIniciarTramite" mnemonicParsing="false" text="Iniciar Tramite">
+         <HBox.margin>
+            <Insets right="20.0" />
+         </HBox.margin>
+      </Button>
+      <Button fx:id="btnTramitesCurso" mnemonicParsing="false" text="Ver Tramites">
+         <HBox.margin>
+            <Insets right="20.0" />
+         </HBox.margin>
+      </Button>
+      <Button fx:id="btnVerTramitesFinalizados" mnemonicParsing="false" text="Info propia">
+         <HBox.margin>
+            <Insets right="20.0" />
+         </HBox.margin>
+      </Button>
+   </children>
+</HBox>
