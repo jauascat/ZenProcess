@@ -1,3 +1,0 @@
-﻿Usuario: DESKTOP-7ECU5DP
-Clave:
-String de conexion: jdbc:sqlserver://DESKTOP-7ECU5DP:1434;databaseName=db_tzen
